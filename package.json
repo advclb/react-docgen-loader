@@ -22,9 +22,19 @@
   },
   "homepage": "https://github.com/advclb/foobar#readme",
   "devDependencies": {
+    "@types/react": "latest",
     "eslint": "latest",
     "eslint-config-advclb": "latest",
+    "eslint-config-advclb-react": "latest",
     "jest": "latest",
-    "prettier": "latest"
+    "prettier": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "typescript": "latest",
+    "webpack": "latest"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "react-docgen": "^5.3.0"
   }
 }
