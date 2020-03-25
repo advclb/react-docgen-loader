@@ -1,6 +1,6 @@
 {
   "name": "@advclb/react-docgen-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "the only up-to-date react-docgen loader for webpack",
   "main": "lib/index.js",
   "files": [
